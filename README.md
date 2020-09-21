@@ -1,1 +1,1 @@
-# List_Decoding_of_Multi_Point_Reed_Solomon_Codes
+# List_Decoding_of_MultiPoint_AG_Codes
