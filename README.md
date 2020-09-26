@@ -4,4 +4,6 @@
 
 20200926
 
-参考文献：Unique Decoding of General AG Codes Lee. et.al
+参考文献：https://arxiv.org/pdf/1210.3101.pdf
+
+1.Unique Decoding of General AG Codes :2012
